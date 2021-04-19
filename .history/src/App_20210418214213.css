@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  
+  justify-content: space-around;
+  align-items: center;
+  background-color: #f4444f;
+}
+
+.csv__button {
+  background-color: darkkhaki;
+  color: #ffff;
+}
+
+.csv__button:hover {
+  color: darkkhaki;
+  background-color: #ffff;
+  text-decoration: none;
+}
